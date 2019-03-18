@@ -7,10 +7,6 @@ public class HelloWorld
      {
 	
 	   System.out.println("HELLO WORLD!!!");
-	
-	
      }
 	
-	
-	
-  }
+ }
